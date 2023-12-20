@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecouplingDotNet", "DecouplingDotNet\DecouplingDotNet.csproj", "{4BE8E5D6-0C24-4FFC-BFBC-A2BF8DB46791}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseDecoupling", "DatabaseDecoupling\DatabaseDecoupling.csproj", "{A5F6509C-C156-40A2-B256-B4A140E2A8C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BE8E5D6-0C24-4FFC-BFBC-A2BF8DB46791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE8E5D6-0C24-4FFC-BFBC-A2BF8DB46791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE8E5D6-0C24-4FFC-BFBC-A2BF8DB46791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE8E5D6-0C24-4FFC-BFBC-A2BF8DB46791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F6509C-C156-40A2-B256-B4A140E2A8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F6509C-C156-40A2-B256-B4A140E2A8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F6509C-C156-40A2-B256-B4A140E2A8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F6509C-C156-40A2-B256-B4A140E2A8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2172015F-8DED-4015-866B-10B52DFF122F}
+	EndGlobalSection
+EndGlobal
